@@ -1,4 +1,3 @@
-# Topsis-main
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
@@ -32,6 +31,12 @@ Overview of the code structure...
 
 ## Results and Analysis
 Analysis and findings...
+
+## How to Run
+Instructions on how to execute the code...
+
+## Technologies Used
+List of technologies and tools...
 
 ## How to Run
 Instructions on how to execute the code...
